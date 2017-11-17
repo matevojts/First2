@@ -54,6 +54,9 @@ public class MainActivity extends AppCompatActivity {
                 Intent alarmIntent = new Intent(AlarmClock.ACTION_SET_ALARM);
                 startActivity(alarmIntent);
 
+
+                
+
             }
         });
 
